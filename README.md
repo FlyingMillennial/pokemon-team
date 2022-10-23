@@ -1,4 +1,11 @@
-# Getting Started with Create React App
+# Pokemon Team App
+
+Run: `npm start`
+Deploy: check in to main branch and an AWS codepipeline will kick off
+Web Url: http://pokemon-team-app-ui.s3-website.us-east-2.amazonaws.com/ 
+
+---
+# CREATE REACT APP BOLIERPLATE STARTS HERE
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
