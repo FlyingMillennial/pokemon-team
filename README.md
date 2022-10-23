@@ -1,8 +1,8 @@
 # Pokemon Team App
 
-Run: `npm start`
-Deploy: check in to main branch and an AWS codepipeline will kick off
-Web Url: http://pokemon-team-app-ui.s3-website.us-east-2.amazonaws.com/ 
+**Run:** `npm start`\
+**Deploy:** check in to main branch and an AWS codepipeline will kick off\
+**Web Url:** http://pokemon-team-app-ui.s3-website.us-east-2.amazonaws.com/
 
 ---
 # CREATE REACT APP BOLIERPLATE STARTS HERE
